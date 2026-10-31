@@ -1,1 +1,1 @@
-# Agentic document
+# 3D Avatar Navigation

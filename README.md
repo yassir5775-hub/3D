@@ -1,6 +1,6 @@
 # Intelligent 3D Avatar Navigation — Reinforcement Learning
 
-**Author:** Yassir
+**Author:** Yassir EL HAj Tirari
 
 A playable Python 3D maze with manual character movement and an autonomous navigation agent. Unlike a purely scripted A* demo, the agent **trains a tabular Q-learning policy** for each selected destination and attempts to follow it. If the learned route fails, the interface explicitly labels a reliable **A* fallback**.
 

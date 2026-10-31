@@ -39,5 +39,4 @@ The agent observes its **grid position**, chooses among four actions (up, down, 
 - `tests/test_navigation.py`: basic verification tests
 - `requirements.txt`: dependencies
 
-## Limitations
-This is a self-contained **educational prototype**, not an advanced embodied AI. It uses tabular reinforcement learning on a fixed maze, not deep RL, computer vision, physics-based character control, or skeletal animations. Training occurs synchronously and may briefly pause the interface after each click. Change the `MAP` in `navigation.py` to customize obstacles.
+
